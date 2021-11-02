@@ -1,0 +1,8 @@
+.idea
+.packages
+.dart_tool
+.flutter-plugins
+.flutter-plugins-dependencies
+local.properties
+build
+.gradle
